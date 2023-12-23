@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-23T19:40:59 EET" name="Default suite" finished-at="2023-12-23T19:41:45 EET" duration-ms="45952">
+    <groups>
+    </groups>
+    <test started-at="2023-12-23T19:40:59 EET" name="Default test" finished-at="2023-12-23T19:41:45 EET" duration-ms="45952">
+      <class name="PackageName.testPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PackageName.testPage@5a865416]" started-at="2023-12-23T19:40:59 EET" name="setup" finished-at="2023-12-23T19:40:59 EET" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="creatAcount()[pri:1, instance:PackageName.testPage@5a865416]" started-at="2023-12-23T19:40:59 EET" name="creatAcount" finished-at="2023-12-23T19:41:09 EET" duration-ms="9570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatAcount -->
+        <test-method signature="Logout()[pri:2, instance:PackageName.testPage@5a865416]" started-at="2023-12-23T19:41:09 EET" name="Logout" finished-at="2023-12-23T19:41:15 EET" duration-ms="5923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method signature="Login()[pri:3, instance:PackageName.testPage@5a865416]" started-at="2023-12-23T19:41:15 EET" name="Login" finished-at="2023-12-23T19:41:21 EET" duration-ms="6201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="allIteams()[pri:4, instance:PackageName.testPage@5a865416]" started-at="2023-12-23T19:41:21 EET" name="allIteams" finished-at="2023-12-23T19:41:44 EET" duration-ms="22646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allIteams -->
+        <test-method signature="footer()[pri:5, instance:PackageName.testPage@5a865416]" started-at="2023-12-23T19:41:44 EET" name="footer" finished-at="2023-12-23T19:41:45 EET" duration-ms="1353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footer -->
+        <test-method is-config="true" signature="posttest()[pri:0, instance:PackageName.testPage@5a865416]" started-at="2023-12-23T19:41:45 EET" name="posttest" finished-at="2023-12-23T19:41:45 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posttest -->
+      </class> <!-- PackageName.testPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
